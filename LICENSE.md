@@ -16,7 +16,7 @@ d. Subject to section 5, use the name of the University or the creators or any o
 4.	ACKNOWLEDGMENT OF COPYRIGHT
 Licensee acknowledges that the Licensed Work is protected by copyright and other intellectual property rights. Licensee acknowledges that University owns all rights in the Licensed Work.
 5.	PUBLICATION
-All publications that are based on or utilize the Licensed work shall be cited appropriately using doi.org/10.3390/xxxxx, and include the following notice: Scripts_Metabolomics.docx was created by Dr. Seo Lin Nam and Dr. James Harynuk and used here under license from the University of Alberta; based on the original work available from https://github.com/seolinnam/Scripts_Metabolomics.
+All publications that are based on or utilize the Licensed work shall be cited appropriately using https://doi.org/10.3390/separations8060084, and include the following notice: Scripts_Metabolomics.docx was created by Dr. Seo Lin Nam and Dr. James Harynuk and used here under license from the University of Alberta; based on the original work available from https://github.com/seolinnam/Scripts_Metabolomics.
 6.	DISCLAIMER OF WARRANTIES
 6.1 Except for the representations and warranties expressly set forth herein, University disclaims all other warranties, expressed or implied. In particular, but without limitation, the Licensed Work is provided by University WITHOUT WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, EITHER EXPRESSED OR IMPLIED.
 7.	INDEMNITY AND LIMITATION OF LIABILITY
